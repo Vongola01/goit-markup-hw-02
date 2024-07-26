@@ -89,3 +89,24 @@ span{
 .section-team{
     background-color: #F4F4FD;
 }
+
+.title-team{
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color:  #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.list-team{
+    background-color: #FFFFFF;
+
+}
+
+.text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
