@@ -14,7 +14,7 @@ body{
     color: #4d5ae5;
 }
 
-span{
+.span-head{
     color: #2e2f42;
 }
 
@@ -97,6 +97,7 @@ span{
     color:  #2e2f42;
     text-align: center;
     text-transform: capitalize;
+    background-color: #ffffff;
 }
 
 .list-team{
@@ -123,7 +124,7 @@ span{
     background-color: #2e2f42;
 }
 
-.span-logo{
+.span-foot{
     color: #f4f4fd;
 }
 
