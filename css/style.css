@@ -1,24 +1,24 @@
 body{
-    background-color: E5E5E5;
-    font-family: roboto;
+    background-color: #E5E5E5;
+    font-family: 'roboto', sans-serif;
 }
 
 a{
     text-decoration: none;
+    color: currentColor;
+}
+
+a:hover, a:focus{
+    text-decoration: underline;
 }
 
 ul{
     list-style-type: none;
 }
 
-.hero-section{
-    background-color: #2E2F42;
-    color: white;
-}
-
 .hero-button{
     background-color: #4D5AE5;
-    font-family: roboto;
+    font-family: 'roboto', sans-serif;
     font-weight: medium;
     font-size: 16px;
     line-height: 24px;
@@ -33,10 +33,41 @@ footer{
     background-color: #2E2F42;
     color: #F4F4FD;
 }
+
 h1{
-    font-family: roboto;
+    font-family: 'roboto', sans-serif;
     font-weight: bold;
     font-size: 56px;
     letter-spacing: 2%;
     line-height: 60px;
+}
+
+h2{
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+h3{
+    font-family: 'roboto', sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+
+.address-style{
+    color: #2E2F42;
+}
+
+.hero-section{
+    background-color: #2E2F42;
+    color: white;
+}
+
+.team-style{
+    background-color: white;
 }
