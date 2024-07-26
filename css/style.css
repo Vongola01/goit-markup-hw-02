@@ -1,0 +1,29 @@
+body{
+    background-color: E5E5E5;
+    font-family: roboto;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.hero-section{
+    background-color: #2E2F42;
+    color: white;
+}
+
+.hero-button{
+    background-color: #4D5AE5;
+}
+
+.section-team{
+    background-color: #F4F4FD;
+}
+
+footer{
+    background-color: #4D5AE5;
+}
