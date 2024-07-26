@@ -118,3 +118,17 @@ span{
     text-align: center;
     text-transform: capitalize;
 }
+
+.foot{
+    background-color: #2e2f42;
+}
+
+.span-logo{
+    color: #f4f4fd;
+}
+
+.text-foot{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
