@@ -47,3 +47,29 @@ span{
 .contact:focus{
     color: #404bbf;
 }
+
+.hero-section{
+    background-color: #2e2f42;
+    color: white;
+}
+
+.title{
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 60px;
+}
+
+.hero-button{
+    background-color: #4D5AE5;
+    font-family: 'roboto', sans-serif;
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+}
+
+.section-team{
+    background-color: #F4F4FD;
+}
